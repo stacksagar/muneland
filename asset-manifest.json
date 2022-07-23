@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/muneland/static/css/main.99fe042e.css",
-    "main.js": "/muneland/static/js/main.59ab2905.js",
+    "main.js": "/muneland/static/js/main.f717e641.js",
     "static/media/nft.svg": "/muneland/static/media/nft.2a641d195a930254f526973c1f046918.svg",
     "static/media/blockchain.svg": "/muneland/static/media/blockchain.9d98df9a198e4312b2e0811a05d70ae3.svg",
     "static/media/fill-box.svg": "/muneland/static/media/fill-box.ab39b6731b26d8b620fa36a2bd5c1383.svg",
@@ -35,10 +35,10 @@
     "static/media/chevron-top.svg": "/muneland/static/media/chevron-top.9e3b77dd58b7fc83fafc285c5b57d2ac.svg",
     "static/media/arrow-right.svg": "/muneland/static/media/arrow-right.20683905790d112572b186f4a11457cf.svg",
     "main.99fe042e.css.map": "/muneland/static/css/main.99fe042e.css.map",
-    "main.59ab2905.js.map": "/muneland/static/js/main.59ab2905.js.map"
+    "main.f717e641.js.map": "/muneland/static/js/main.f717e641.js.map"
   },
   "entrypoints": [
     "static/css/main.99fe042e.css",
-    "static/js/main.59ab2905.js"
+    "static/js/main.f717e641.js"
   ]
 }
